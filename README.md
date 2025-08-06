@@ -5,9 +5,9 @@ This project was developed as part of the TReND-CaMinA 2025 summer school to use
 ## 👥 Contributors
 
 - [@Kaloso11](https://github.com/Kaloso11)
-- [@championLumamba](https://github.com/championLumamba)
-- [@RonaldOuma](https://github.com/RonaldOuma)
-- [@FarhanahSallie](https://github.com/FarhanahSallie)
+- [@championLumamba](https://github.com/Champ-law)
+- [@RonaldOuma](https://github.com/OmoRonald)
+- [@FarhanahSallie](https://github.com/farhanahsallie)
 
 ## 🎯 Objective
 
