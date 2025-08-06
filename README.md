@@ -1,13 +1,13 @@
 # Predicting Mouse Pupil Size from Neuronal Response
 
-This project was developed as part of the TReND-CaMinA 2025 summer school, to use neural recordings to predict pupil size in mice using machine learning techniques.
+This project was developed as part of the TReND-CaMinA 2025 summer school to use neural recordings to predict pupil size in mice using machine learning techniques.
 
 ## 👥 Contributors
 
-- Kaloso Tlotleng
-- Champion Lumamba
-- Ronald Omolo Ouma
-- Farhanah Sallie
+- [@Kaloso11](https://github.com/Kaloso11)
+- [@championLumamba](https://github.com/championLumamba)
+- [@RonaldOuma](https://github.com/RonaldOuma)
+- [@FarhanahSallie](https://github.com/FarhanahSallie)
 
 ## 🎯 Objective
 
